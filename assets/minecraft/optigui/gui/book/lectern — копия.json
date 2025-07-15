@@ -1,0 +1,7 @@
+{
+  "generated_by": "OptiGUI 3.0.0-alpha.3+fabric.1.21",
+  "docs": "https://opekope2.dev/OptiGUI/JSON.html",
+  "containers": "minecraft:lectern",
+  "textures": {
+    "minecraft:textures/gui/book.png": "optigui/gui/book/lectern.png"}
+}
