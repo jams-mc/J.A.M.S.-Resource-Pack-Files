@@ -21,6 +21,7 @@ Recolourful Containers 2.1.1 (1.19.4+).zip
 Simple Grass Flowers v1.9.5.zip
 Simple Grass Flowers v1.9.5.zip
 §f§l● Full Glowing Not Outline
+Alternative Rain Sounds 1.20-1.20.X.zip
 Resource packs on this list can be outdated and no longer used on server
 ```
 Other pack used are from: [vanillatweaks.net](https://vanillatweaks.net/picker/resource-packs/)
