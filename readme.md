@@ -2,7 +2,7 @@
 This is repo that contain Just Another Minecraft Server resource packs
 Resource packs used by server are NOT owned by server developers
 Resource Packs are made by mergining elements of other resource pack
-
+** **
 Used resourpacks may or may not contain following list:
 ```
 barebones+bossbar.zip
