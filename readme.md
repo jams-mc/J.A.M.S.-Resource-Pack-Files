@@ -12,7 +12,6 @@ EclecticTrove-noconfig-1.20.1-1.3.0.zip
 enchant icons 1.20 v1.3.zip
 Fresh Food 1.1 - 1.20.1-1.21.1.zip
 Icon Journey 1.1.zip
-merged_resource_pack.zip
 Music Pack Renewed.zip
 Music Redefined 0.8.2 pre-1.20.2.zip
 Os' Colorful Grasses (Short).zip
