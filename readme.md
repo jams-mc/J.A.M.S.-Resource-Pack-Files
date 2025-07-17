@@ -25,6 +25,7 @@ Simple Grass Flowers v1.9.5.zip
 Alternative Rain Sounds 1.20-1.20.X.zip
 Alternative Rain Sounds 1.20-1.20.X.zip
 minclick-1.3.zip
+Anti_Xray_Full_1.20.zip
 Resource packs on this list can be outdated and no longer used on server
 ```
 Other pack used are from: [vanillatweaks.net](https://vanillatweaks.net/picker/resource-packs/)
