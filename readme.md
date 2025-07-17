@@ -1,8 +1,9 @@
 # J.A.M.S.-Resource-Pack
+** **
 This is repo that contain Just Another Minecraft Server resource packs
 Resource packs used by server are NOT owned by server developers
 Resource Packs are made by mergining elements of other resource pack
-
+** **
 Used resourpacks may or may not contain following list:
 ```
 barebones+bossbar.zip
@@ -21,6 +22,7 @@ Recolourful Containers 2.1.1 (1.19.4+).zip
 Simple Grass Flowers v1.9.5.zip
 Simple Grass Flowers v1.9.5.zip
 §f§l● Full Glowing Not Outline
+Alternative Rain Sounds 1.20-1.20.X.zip
 Alternative Rain Sounds 1.20-1.20.X.zip
 Resource packs on this list can be outdated and no longer used on server
 ```
