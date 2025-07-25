@@ -23,6 +23,9 @@ Simple Grass Flowers v1.9.5.zip
 Simple Grass Flowers v1.9.5.zip
 §f§l● Full Glowing Not Outline
 minclick-1.3.zip
+Create Immersive Aircraft Warship ResoucePack v1.2.zip
+Create Immersive Aircrafts Resource Pack 1.20.1 - 2.0.zip|
+From-The-Fog-1.20-v1.9.2-Data-Resource-Pack.zip.zip
 Resource packs on this list can be outdated and no longer used on server
 ```
 Other pack used are from: [vanillatweaks.net](https://vanillatweaks.net/picker/resource-packs/)
