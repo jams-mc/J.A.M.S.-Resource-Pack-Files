@@ -1,0 +1,56 @@
+{
+	"parent": "item/handheld",
+	"textures": {
+		"layer0": "item/wooden_sword"
+	},
+	"overrides": [
+		{
+			"predicate": {
+				"custom_model_data": 72500
+			},
+			"model": "item/wooden_rapier"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 72501
+			},
+			"model": "item/wooden_greatsword"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 72502
+			},
+			"model": "item/wooden_saber"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 72503
+			},
+			"model": "item/wooden_katana"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 72504
+			},
+			"model": "item/wooden_longsword"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 72505
+			},
+			"model": "item/wooden_dagger"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 72506
+			},
+			"model": "item/wooden_greataxe"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 72507
+			},
+			"model": "item/wooden_spear"
+		}
+	]
+}

@@ -4,6 +4,138 @@
         "layer0": "item/iron_sword"
     },
     "overrides": [
+{
+			"predicate": {
+				"custom_model_data": 72500
+			},
+			"model": "item/swordsandstrongholds/weapons/iron_rapier"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 72501
+			},
+			"model": "item/swordsandstrongholds/weapons/iron_greatsword"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 72502
+			},
+			"model": "item/swordsandstrongholds/weapons/iron_saber"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 72503
+			},
+			"model": "item/swordsandstrongholds/weapons/iron_katana"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 72504
+			},
+			"model": "item/swordsandstrongholds/weapons/iron_longsword"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 72505
+			},
+			"model": "item/swordsandstrongholds/weapons/iron_dagger"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 72506
+			},
+			"model": "item/swordsandstrongholds/weapons/iron_greataxe"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 72507
+			},
+			"model": "item/swordsandstrongholds/weapons/iron_spear"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 72508
+			},
+			"model": "item/swordsandstrongholds/weapons/sheathed/iron_rapier"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 72509
+			},
+			"model": "item/swordsandstrongholds/weapons/sheathed/iron_greatsword"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 72510
+			},
+			"model": "item/swordsandstrongholds/weapons/sheathed/iron_saber"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 72511
+			},
+			"model": "item/swordsandstrongholds/weapons/sheathed/iron_katana"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 72512
+			},
+			"model": "item/swordsandstrongholds/weapons/sheathed/iron_longsword"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 72513
+			},
+			"model": "item/swordsandstrongholds/weapons/sheathed/iron_dagger"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 72514
+			},
+			"model": "item/swordsandstrongholds/weapons/sheathed/iron_greataxe"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 72515
+			},
+			"model": "item/swordsandstrongholds/weapons/sheathed/iron_spear"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 72516
+			},
+			"model": "item/swordsandstrongholds/weapons/iron_halberd"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 72517
+			},
+			"model": "item/swordsandstrongholds/weapons/sheathed/iron_halberd"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 72518
+			},
+			"model": "item/swordsandstrongholds/weapons/iron_broadsword"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 72519
+			},
+			"model": "item/swordsandstrongholds/weapons/sheathed/iron_broadsword"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 72520
+			},
+			"model": "item/swordsandstrongholds/weapons/iron_morningstar"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 72521
+			},
+			"model": "item/swordsandstrongholds/weapons/sheathed/iron_morningstar"
+		},
         {
             "predicate": {
                 "damaged": 1,
