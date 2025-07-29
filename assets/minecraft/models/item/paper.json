@@ -1,0 +1,104 @@
+{
+	"parent": "item/generated",
+	"textures": {
+		"layer0": "item/paper"
+	},
+	"overrides": [
+		{
+			"predicate": {
+				"custom_model_data": 72500
+			},
+			"model": "item/swordsandstrongholds/manuscripts/rapier"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 72501
+			},
+			"model": "item/swordsandstrongholds/manuscripts/greatsword"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 72502
+			},
+			"model": "item/swordsandstrongholds/manuscripts/saber"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 72503
+			},
+			"model": "item/swordsandstrongholds/manuscripts/katana"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 72504
+			},
+			"model": "item/swordsandstrongholds/manuscripts/longsword"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 72505
+			},
+			"model": "item/swordsandstrongholds/manuscripts/dagger"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 72506
+			},
+			"model": "item/swordsandstrongholds/manuscripts/greataxe"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 72507
+			},
+			"model": "item/swordsandstrongholds/manuscripts/spear"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 72508
+			},
+			"model": "item/swordsandstrongholds/manuscripts/parrying_dagger"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 72509
+			},
+			"model": "item/swordsandstrongholds/manuscripts/buckler"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 72510
+			},
+			"model": "item/swordsandstrongholds/manuscripts/small_shield"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 72511
+			},
+			"model": "item/swordsandstrongholds/manuscripts/tower_shield"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 72512
+			},
+			"model": "item/swordsandstrongholds/manuscripts/halberd"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 72513
+			},
+			"model": "item/swordsandstrongholds/manuscripts/broadsword"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 72514
+			},
+			"model": "item/swordsandstrongholds/manuscripts/morningstar"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 72515
+			},
+			"model": "item/swordsandstrongholds/manuscripts/blank"
+		}
+	]
+}
