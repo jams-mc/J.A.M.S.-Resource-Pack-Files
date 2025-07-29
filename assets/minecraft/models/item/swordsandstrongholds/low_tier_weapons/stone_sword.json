@@ -1,0 +1,56 @@
+{
+	"parent": "item/handheld",
+	"textures": {
+		"layer0": "item/stone_sword"
+	},
+	"overrides": [
+		{
+			"predicate": {
+				"custom_model_data": 72500
+			},
+			"model": "item/stone_rapier"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 72501
+			},
+			"model": "item/stone_greatsword"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 72502
+			},
+			"model": "item/stone_saber"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 72503
+			},
+			"model": "item/stone_katana"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 72504
+			},
+			"model": "item/stone_longsword"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 72505
+			},
+			"model": "item/stone_dagger"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 72506
+			},
+			"model": "item/stone_greataxe"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 72507
+			},
+			"model": "item/stone_spear"
+		}
+	]
+}
