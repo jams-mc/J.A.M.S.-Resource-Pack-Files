@@ -1,132 +1,45 @@
 {
     "comment": "Made by Stridey",
     "parent": "builtin/entity",
-    "gui_light": "front",
+	"gui_light": "front",
     "textures": {
         "particle": "block/dark_oak_planks"
     },
-    "display": {
+	"display": {
         "thirdperson_righthand": {
-            "rotation": [
-                0,
-                90,
-                0
-            ],
-            "translation": [
-                10,
-                6,
-                -4
-            ],
-            "scale": [
-                1,
-                1,
-                1
-            ]
+            "rotation": [ 0, 90, 0 ],
+            "translation": [ 10, 6, -4 ],
+            "scale": [ 1, 1, 1 ]
         },
         "thirdperson_lefthand": {
-            "rotation": [
-                0,
-                90,
-                0
-            ],
-            "translation": [
-                10,
-                6,
-                12
-            ],
-            "scale": [
-                1,
-                1,
-                1
-            ]
+            "rotation": [ 0, 90, 0 ],
+            "translation": [ 10, 6, 12 ],
+            "scale": [ 1, 1, 1 ]
         },
         "firstperson_righthand": {
-            "rotation": [
-                0,
-                180,
-                5
-            ],
-            "translation": [
-                -10,
-                -0.75,
-                -10,
-                2
-            ],
-            "scale": [
-                1.25,
-                1.25,
-                1.25
-            ]
+            "rotation": [ 0, 180, 5 ],
+            "translation": [ -10, -0.75, -10 ],
+            "scale": [ 1.25, 1.25, 1.25 ]
         },
         "firstperson_lefthand": {
-            "rotation": [
-                0,
-                180,
-                5
-            ],
-            "translation": [
-                10,
-                -2.5,
-                -10,
-                0
-            ],
-            "scale": [
-                1.25,
-                1.25,
-                1.25
-            ]
+            "rotation": [ 0, 180, 5 ],
+            "translation": [ 10, -2.5, -10 ],
+            "scale": [ 1.25, 1.25, 1.25 ]
         },
         "gui": {
-            "rotation": [
-                15,
-                -25,
-                -5
-            ],
-            "translation": [
-                2,
-                3,
-                0,
-                -1
-            ],
-            "scale": [
-                0.65,
-                0.65,
-                0.65
-            ]
+            "rotation": [ 15, -25, -5 ],
+            "translation": [ 2, 3, 0 ],
+            "scale": [ 0.65, 0.65, 0.65 ]
         },
         "fixed": {
-            "rotation": [
-                0,
-                180,
-                0
-            ],
-            "translation": [
-                -2,
-                4,
-                -5
-            ],
-            "scale": [
-                0.5,
-                0.5,
-                0.5
-            ]
+            "rotation": [ 0, 180, 0 ],
+            "translation": [ -2, 4, -5],
+            "scale":[ 0.5, 0.5, 0.5]
         },
         "ground": {
-            "rotation": [
-                0,
-                0,
-                0
-            ],
-            "translation": [
-                4,
-                4,
-                2
-            ],
-            "scale": [
-                0.25,
-                0.25,
-                0.25
-            ]
+            "rotation": [ 0, 0, 0 ],
+            "translation": [ 4, 4, 2],
+            "scale":[ 0.25, 0.25, 0.25]
         }
     },
     "overrides": [
@@ -135,103 +48,6 @@
                 "blocking": 1
             },
             "model": "item/shield_blocking"
-        },
-        {
-            "predicate": {
-                "blocking": 1
-            },
-            "model": "minecraft:item/shield_blocking"
-        },
-        {
-            "predicate": {
-                "custom_model_data": 72502
-            },
-            "model": "item/swordsandstrongholds/weapons/golden_parrying_dagger"
-        },
-        {
-            "predicate": {
-                "blocking": 1,
-                "custom_model_data": 72502
-            },
-            "model": "item/swordsandstrongholds/weapons/golden_parrying_dagger_parrying"
-        },
-        {
-            "predicate": {
-                "custom_model_data": 72503
-            },
-            "model": "item/swordsandstrongholds/weapons/iron_parrying_dagger"
-        },
-        {
-            "predicate": {
-                "blocking": 1,
-                "custom_model_data": 72503
-            },
-            "model": "item/swordsandstrongholds/weapons/iron_parrying_dagger_parrying"
-        },
-        {
-            "predicate": {
-                "custom_model_data": 72504
-            },
-            "model": "item/swordsandstrongholds/weapons/diamond_parrying_dagger"
-        },
-        {
-            "predicate": {
-                "blocking": 1,
-                "custom_model_data": 72504
-            },
-            "model": "item/swordsandstrongholds/weapons/diamond_parrying_dagger_parrying"
-        },
-        {
-            "predicate": {
-                "custom_model_data": 72505
-            },
-            "model": "item/swordsandstrongholds/weapons/netherite_parrying_dagger"
-        },
-        {
-            "predicate": {
-                "blocking": 1,
-                "custom_model_data": 72505
-            },
-            "model": "item/swordsandstrongholds/weapons/netherite_parrying_dagger_parrying"
-        },
-        {
-            "predicate": {
-                "custom_model_data": 72506
-            },
-            "model": "item/swordsandstrongholds/weapons/buckler"
-        },
-        {
-            "predicate": {
-                "blocking": 1,
-                "custom_model_data": 72506
-            },
-            "model": "item/swordsandstrongholds/weapons/buckler_blocking"
-        },
-        {
-            "predicate": {
-                "custom_model_data": 72507
-            },
-            "model": "item/swordsandstrongholds/weapons/small_shield"
-        },
-        {
-            "predicate": {
-                "blocking": 1,
-                "custom_model_data": 72507
-            },
-            "model": "item/swordsandstrongholds/weapons/small_shield_blocking"
-        },
-        {
-            "predicate": {
-                "custom_model_data": 72508
-            },
-            "model": "item/swordsandstrongholds/weapons/tower_shield"
-        },
-        {
-            "predicate": {
-                "blocking": 1,
-                "custom_model_data": 72508
-            },
-            "model": "item/swordsandstrongholds/weapons/tower_shield_blocking"
         }
     ]
 }
